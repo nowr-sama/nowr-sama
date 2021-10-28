@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ayaan shaikh
+- 👋 Hi, I’m @nowr
 - 👀 I’m interested in watching anime and reading manga.
 - 🌱 I’m currently learning web development
 
